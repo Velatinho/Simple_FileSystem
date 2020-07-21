@@ -1,2 +1,2 @@
 # Simple_FileSystem
-A simple file system developed in a tree structure accessed using hash function.
+University project of "Principles and Algorithms of Informatics" exam: developement of a simplified version of a file system in C language, using tree structures accessed with hash functions.
